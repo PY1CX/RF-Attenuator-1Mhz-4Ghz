@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for RF_Attenuator
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -191,6 +191,115 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COLJHJJR
 
+[Document10]
+DocumentPath=Output Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Gerber Files\NC Drill\RF_Attenuator-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Gerber Files\NC Drill\RF_Attenuator-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Gerber Files\NC Drill\RF_Attenuator.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Gerber Files\NC Drill\RF_Attenuator.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GM29
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Gerber Files\NC Drill\RF_Attenuator.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerber Files\Gerber\RF_Attenuator.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -238,7 +347,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for RF_Attenuator
 
 [OutputGroup1]
 Name=Netlist Outputs
