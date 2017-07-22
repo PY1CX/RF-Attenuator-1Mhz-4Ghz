@@ -1,0 +1,292 @@
+*************************************************************
+FileName = RF_Attenuator.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : RF_Attenuator.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : RF_Attenuator.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RF_Attenuator.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D16
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : RF_Attenuator.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RF_Attenuator.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RF_Attenuator.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RF_Attenuator.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : RF_Attenuator.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D35
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : RF_Attenuator.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RF_Attenuator.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : RF_Attenuator.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : RF_Attenuator.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : RF_Attenuator.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : RF_Attenuator.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 29
+      File : RF_Attenuator.GM29
+
+    Adding Layer      : Mechanical 29
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+    D22
+*************************************************************
+
